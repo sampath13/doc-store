@@ -1,0 +1,2 @@
+PyMuPDF==1.25.5
+elasticsearch==8.15.0
